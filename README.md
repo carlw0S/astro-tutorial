@@ -1,3 +1,6 @@
+# Deployed site
+https://carlw0s-astro-tutorial.netlify.app/
+
 # Astro Starter Kit: Minimal
 
 ```sh
